@@ -619,6 +619,7 @@ T <= T`이다 왜냐하면 최적해 보다 적은 실행시간은 존재하지 
 OPT는 최적해 OPT`은 그리디 알고리즘의 해라 가정하고 아래 식을 보면 
 
 ![image-20210520214204352](C:\Users\samsung\AppData\Roaming\Typora\typora-user-images\image-20210520214204352.png)
+![사진](https://github.com/tjsdn9803/Jobscheduling/blob/main/%EC%BA%A1%EC%B2%98.PNG)
 
 1번 문단에서는 T<=T`인 성질을 이용하였고
 
